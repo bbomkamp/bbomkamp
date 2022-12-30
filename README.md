@@ -1,8 +1,10 @@
 
+<!--
+
 <div id="header" align="center">
   <img src="https://i.ibb.co/tYzsQft/Blue-Purple-Simple-Minimalist-Linked-In-Career-Page-Banner.png" />
 </div>
-
+-->
 
 
 <hr />
