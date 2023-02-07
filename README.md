@@ -25,9 +25,9 @@ I am excited to continue my professional journey and contribute my skills and kn
   </a>
   
   
-  <a href="https://www.youtube.com/channel/UCzBNQiDIoXESAhQP-JKRdOA">
+<!--   <a href="https://www.youtube.com/channel/UCzBNQiDIoXESAhQP-JKRdOA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a> -->
  
   <a href="https://twitter.com/BradBomkamp">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
