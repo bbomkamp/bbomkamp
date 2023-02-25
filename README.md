@@ -9,7 +9,7 @@
 
 <hr />
 
-### Hi there 👋
+### Hello there 👋
 
 My name is Brad Bomkamp, and I am a computer science graduate from the University of Wisconsin Parkside. During my time in college, I had the opportunity to intern at The App Factory, where I gained valuable experience working with various technologies, such as React.js, JavaScript, CSS, HTML, Java, Swift, and Python.
 
