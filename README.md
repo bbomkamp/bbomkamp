@@ -13,9 +13,9 @@
 
 My name is Brad Bomkamp, and I am a computer science graduate from the University of Wisconsin Parkside. During my time in college, I had the opportunity to intern at The App Factory, where I gained valuable experience working with various technologies, such as React.js, JavaScript, CSS, HTML, Java, Swift, and Python.
 
+In addition to my academic and internship experience, I have also completed two online coding bootcamps. In 2022, I earned a Nanodegree in React from Udacity. This year, in 2023, I also earned a certificate in React and Firebase from Udemy, staying up-to-date with the latest technologies in the field.
 
-In my current role, I specialize in web design and have a passion for creating intuitive and engaging user experiences. I am always looking for ways to improve my skills and stay up-to-date with the latest developments in the field.
-
+My current role specializes in web design, and I have a passion for creating intuitive and engaging user experiences. I am always looking for ways to improve my skills and stay up-to-date with the latest developments in the field.
 
 I am excited to continue my professional journey and contribute my skills and knowledge to a dynamic team. Thank you for considering me for your project or opportunity.
 
