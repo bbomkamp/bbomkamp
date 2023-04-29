@@ -30,6 +30,7 @@ I am excited to continue my professional journey and contribute my skills and kn
   <a href="https://twitter.com/BradBomkamp">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <hr />
   
 </div>
 
