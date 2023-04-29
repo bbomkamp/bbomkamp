@@ -27,7 +27,6 @@ I am excited to continue my professional journey and contribute my skills and kn
     <a href="https://bradbomkamp.com">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a>
-    
     <hr />
   
 </div>
