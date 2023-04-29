@@ -16,6 +16,7 @@ Apart from my academic and internship experience, I am a dedicated learner and k
 My current role specializes in web design, and I have a passion for creating intuitive and engaging user experiences. I am always looking for ways to improve my skills and stay up-to-date with the latest developments in the field.
 
 I am excited to continue my professional journey and contribute my skills and knowledge to a dynamic team. Thank you for considering me for your project or opportunity.
+  <hr />
   <div id="badges">
   <a href="https://www.linkedin.com/in/brad-bomkamp/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
