@@ -25,7 +25,7 @@ I am excited to continue my professional journey and contribute my skills and kn
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     
-  
+  <img src="https://komarev.com/ghpvc/?username=bbomkamp&style=flat-square&color=blue" alt=""/>
   
 </div>
     <hr />
