@@ -1,14 +1,9 @@
 <div align="center">
 
 # Hello there 👋
-My name is Brad Bomkamp, and I am a computer science graduate from the University of Wisconsin Parkside. During my time in college, I had the opportunity to intern at The App Factory, where I gained valuable experience working with various technologies, such as React.js, JavaScript, CSS, HTML, Java, Swift, and Python.
-  
+Hey there, I'm Brad Bomkamp, a DevOps Engineer with a knack for crafting efficient CI/CD pipelines using tools like Terraform, AWS, and GitLab CI. My background in full-stack web design provides me with a solid foundation in both frontend and backend technologies, allowing me to seamlessly integrate DevOps practices into projects.
 
-Apart from my academic and internship experience, I am a dedicated learner and keep myself updated with the latest developments in the field. I have completed several online coding bootcamps to enhance my skills. In 2022, I earned a Nanodegree in React from Udacity. In 2023, I earned a certificate in React and Firebase from Udemy.
-
-My current role specializes in web design, and I have a passion for creating intuitive and engaging user experiences. I am always looking for ways to improve my skills and stay up-to-date with the latest developments in the field.
-
-I am excited to continue my professional journey and contribute my skills and knowledge to a dynamic team. Thank you for considering me for your project or opportunity.
+I'm excited to bring my diverse skill set and DevOps expertise to dynamic teams, ready to tackle new challenges head-on. Thanks for considering me for your next project or opportunity.
   
   <hr />
   <div id="badges">
