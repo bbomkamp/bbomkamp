@@ -1,9 +1,11 @@
 <div align="center">
 
 # Hello there 👋
-Hey there, I'm Brad Bomkamp, a DevOps Engineer with a knack for crafting efficient CI/CD pipelines using tools like Terraform, AWS, and GitLab CI. My background in full-stack web design provides me with a solid foundation in both frontend and backend technologies, allowing me to seamlessly integrate DevOps practices into projects.
+Hey there, I'm Brad Bomkamp!
 
-I'm excited to bring my diverse skill set and DevOps expertise to dynamic teams, ready to tackle new challenges head-on. Thanks for considering me for your next project or opportunity.
+I'm a DevOps Engineer with experience building and maintaining CI/CD pipelines and cloud infrastructure. My current stack includes GitLab CI, AWS (EC2, CodeCommit, CodePipeline, CloudFormation, RDS, S3), Artifactory, Xray, Ansible Tower, Jenkins, and Prometheus. I focus on automating processes, improving deployment workflows, and ensuring system reliability.
+
+With a background in full-stack web design, I have a solid understanding of both development and operational needs, allowing me to integrate DevOps practices effectively across projects. Whether it's managing infrastructure on AWS, setting up artifact repositories, or handling monitoring, I'm focused on delivering practical, efficient solutions.
   
   <hr />
   <div id="badges">
