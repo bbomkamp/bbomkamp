@@ -7,21 +7,7 @@ I'm a DevOps Engineer with experience building and maintaining CI/CD pipelines a
 
 With a background in full-stack web design, I have a solid understanding of both development and operational needs, allowing me to integrate DevOps practices effectively across projects. Whether it's managing infrastructure on AWS, setting up artifact repositories, or handling monitoring, I'm focused on delivering practical, efficient solutions.
   
-  <hr />
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/brad-bomkamp/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  
-  <a href="https://bradbomkamp.com">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
-  </a>
- 
-  <a href="https://twitter.com/BradBomkamp">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-    
+
   
   
 </div>
